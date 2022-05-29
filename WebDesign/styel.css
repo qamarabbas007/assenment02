@@ -1,0 +1,145 @@
+
+#sqrt{
+    background-color: #eebee8;
+    width: 1280px;
+    height: 657px;
+    position: absolute;
+    left: -1px;
+    top: -1px;
+   
+}
+#childsqrt{
+    color: #000;
+    background-color: #ffffff;
+    width: 1080px;
+    height: 545px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+#box{
+    color: #ffffff;
+    background-color: rgb(158, 44, 187);
+    height: 50px;
+    width: 50px;
+}
+#verticalbox{
+    background-color: rgba(199, 194, 194, 0.678);
+    width: 50px;
+    height: 500px;
+}
+/* span{
+    color: #fff;
+    background-color: rgb(163, 40, 194);
+    position: absolute;
+    left: 12px;
+    top: 5px;
+    width: 30px;
+    height: 30px;
+} */
+#img{
+
+    position: absolute;
+    top: -28px;
+    left: 50px;
+  
+box-shadow: 10px 0px 10px 0px #77777770;
+  
+    }
+    #box1{
+        position: absolute;
+        left: 8px;
+        top: 125px;
+    }
+    #box2{
+        position: absolute;
+        left: 8px;
+        top: 170px;
+    } 
+    #box3{
+        position: absolute;
+        left: 8px;
+        top: 230px;
+    }
+    #box4{
+        position: absolute;
+        left: 8px;
+        top: 290px;  
+    }
+    #box5{
+        position: absolute;
+        left: 8px;
+        top: 350px;  
+    }
+    #box6{
+        position: absolute;
+        left: 8px;
+        top: 500px; 
+    }
+    #picture{
+        color: rgb(253, 128, 237);
+        position: absolute;
+        right: 3S60px;
+        bottom: 100px
+    }
+#para{
+    background-color: aqua;
+    width: 500px;
+    height: 0px;
+    position: absolute;
+    right: 30px;
+    top: 50px;
+}
+#line{
+   color: rgba(0, 0, 0, 0.699);
+    width: 500px;
+    height: 0px;
+    position: absolute;
+    right: 60px;
+    top: 200px;
+}
+h1{
+    position: absolute;
+    right: 400px;
+    top: 230px;
+    font-family: Arial, Verdana, sans-serif;
+}
+#monitor{
+    color: rgb(253, 128, 237);
+    position: absolute;
+    right: 560px;
+    bottom: 200px;
+}
+h3{
+    position: absolute;
+    right: 470px;
+    bottom: 150px;
+    font-family: Arial, Verdana, sans-serif;
+}
+#detail{
+    background-color: aqua;
+    width: 190px;
+    height: 0px;
+    position: absolute;
+    right: 395px;
+    bottom: 140px;
+}
+#roket{
+    position: absolute;
+    right: 240px;
+    bottom: 200px;
+}
+#seo{
+    background-color: aqua;
+    width: 190px;
+    height: 0px;
+    position: absolute;
+    right: 100px;
+    bottom: 140px;
+}
+h4{
+    position: absolute;
+    right: 150px;
+    bottom: 150px;
+    font-family: Arial, Verdana, sans-serif; 
+}
